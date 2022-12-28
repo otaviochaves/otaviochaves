@@ -1,4 +1,4 @@
-# Hello Welcome to my Profile 👋
+# Hello! Welcome to my Profile 👋
 
 <p>My name is Otávio, I'm 18 years old, I currently study front end development in Alura.
 
