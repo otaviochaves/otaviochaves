@@ -18,5 +18,4 @@ If you need help, please contact.</p>
 </div><br>
 
 # Atividade
-
-![Otavio GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviochaves&show_icons=true&theme=dracula)
+![otaviochaves GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
