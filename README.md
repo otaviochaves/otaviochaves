@@ -1,10 +1,6 @@
 # Hello! Welcome to my Profile 👋
 
-<p>My name is Otávio, I'm 18 years old, I currently study front end development in Alura.
-
-Here I usually post study projects and solutions for the day to day.
-
-If you need help, please contact.</p>
+<p>My name is Otavio Chaves, I'm 19 years old, I'm currently studying Systems Analysis and Development at the Methodist University of São Paulo.</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otavio__chaves/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otávio-chaves)
